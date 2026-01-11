@@ -1,10 +1,14 @@
-# ☁️ Amazon Web Services (AWS)
+<h1>
+  <a href="" >
+    <img src="../../../assets/images/aws.png" width="40px" />
+    <span>AWS | Amazon Web Services</span>
+   </a>
+</h1>
 
 Biblioteca completa de certificações e guias AWS, organizados por nível de conhecimento — desde fundamentos até certificações profissionais avançadas.
 
----
 
-## 📚 Livros Disponíveis
+### 📚 Livros Disponíveis
 
 <table>
   <thead>
