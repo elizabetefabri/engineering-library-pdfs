@@ -1,4 +1,9 @@
-## 📚 Engineering Library PDFs
+<h1>
+  <a href="https://elizabetesousafabri.com.br" style="padding-left: 15px;">
+    <img src=".github/assets/images/logo.png" width="40px" />
+    <span>Acervo de Estudos em Engenharia</span>
+   </a>
+</h1>
 
 Bem-vindo à biblioteca de engenharia! Um repositório curado com as melhores referências técnicas, arquiteturais e comportamentais para desenvolvimento contínuo de habilidades em tecnologia.
 
@@ -13,7 +18,7 @@ Este acervo foi pensado para profissionais em busca de aprofundamento em áreas 
 <table>
   <thead>
     <tr>
-      <th>Ícone</th>
+      <th>Ícon</th>
       <th>Categoria</th>
       <th>Descrição</th>
       <th>Ação</th>
@@ -21,46 +26,46 @@ Este acervo foi pensado para profissionais em busca de aprofundamento em áreas 
   </thead>
   <tbody>
     <tr>
-      <td>☁️</td>
+      <td align="center">☁️</td>
       <td><strong>Cloud</strong></td>
       <td>Plataformas de nuvem, infraestrutura como código, escalabilidade e boas práticas em ambientes distribuídos (AWS, Azure, GCP).</td>
-      <td><a href="./cloud"><img src="https://img.shields.io/badge/Ver%20Livros-E83751?style=for-the-badge" width="250px"></a></td>
+      <td><a href="./cloud"><img src="https://img.shields.io/badge/explorar%20conteúdo-E83751?style=for-the-badge" width="250px"></a></td>
     </tr>
     <!-- <tr>
       <td>💻</td>
       <td><strong>Desenvolvimento</strong></td>
       <td>Linguagens de programação, padrões de código, frameworks populares e best practices para desenvolvimento de aplicações.</td>
-      <td><a href="./desenvolvimento"><img src="https://img.shields.io/badge/Ver%20Livros-E83751?style=for-the-badge" width="250px"></a></td>
+      <td><a href="./desenvolvimento"><img src="https://img.shields.io/badge/explorar%20conteúdo-E83751?style=for-the-badge" width="250px"></a></td>
     </tr> -->
     <!-- <tr>
       <td>🏗️</td>
       <td><strong>Arquitetura de Software</strong></td>
       <td>Design patterns, SOLID, microsserviços, DDD e estratégias para arquitetar sistemas escaláveis e mantíveis.</td>
-      <td><a href="./arquitetura-software"><img src="https://img.shields.io/badge/Ver%20Livros-E83751?style=for-the-badge" width="250px"></a></td>
+      <td><a href="./arquitetura-software"><img src="https://img.shields.io/badge/explorar%20conteúdo-E83751?style=for-the-badge" width="250px"></a></td>
     </tr> -->
     <!-- <tr>
       <td>🚀</td>
       <td><strong>DevOps</strong></td>
       <td>CI/CD, containerização, orquestração, monitoramento e automação de infraestrutura para delivery contínuo.</td>
-      <td><a href="./devops"><img src="https://img.shields.io/badge/Ver%20Livros-E83751?style=for-the-badge" width="250px"></a></td>
+      <td><a href="./devops"><img src="https://img.shields.io/badge/explorar%20conteúdo-E83751?style=for-the-badge" width="250px"></a></td>
     </tr> -->
     <!-- <tr>
       <td>📊</td>
       <td><strong>Dados</strong></td>
       <td>Data science, machine learning, análise de dados, bancos de dados e processamento em larga escala.</td>
-      <td><a href="./dados"><img src="https://img.shields.io/badge/Ver%20Livros-E83751?style=for-the-badge" width="250px"></a></td>
+      <td><a href="./dados"><img src="https://img.shields.io/badge/explorar%20conteúdo-E83751?style=for-the-badge" width="250px"></a></td>
     </tr> -->
     <!-- <tr>
       <td>📈</td>
       <td><strong>Carreira</strong></td>
       <td>Desenvolvimento profissional, liderança técnica, negócios e estratégias para avançar na carreira em tech.</td>
-      <td><a href="./carreira"><img src="https://img.shields.io/badge/Ver%20Livros-E83751?style=for-the-badge" width="250px"></a></td>
+      <td><a href="./carreira"><img src="https://img.shields.io/badge/explorar%20conteúdo-E83751?style=for-the-badge" width="250px"></a></td>
     </tr> -->
     <!-- <tr>
       <td>🤝</td>
       <td><strong>Soft Skills</strong></td>
       <td>Comunicação, liderança, trabalho em equipe, resolução de conflitos e habilidades interpessoais essenciais.</td>
-      <td><a href="./soft-skills"><img src="https://img.shields.io/badge/Ver%20Livros-E83751?style=for-the-badge" width="250px"></a></td>
+      <td><a href="./soft-skills"><img src="https://img.shields.io/badge/explorar%20conteúdo-E83751?style=for-the-badge" width="250px"></a></td>
     </tr> -->
   </tbody>
 </table>
@@ -101,7 +106,6 @@ Esta biblioteca foi criada com o objetivo de consolidar referências técnicas d
 <div align="center">
   <img src="https://raw.githubusercontent.com/elizabetefabri/ElizabeteFabri/refs/heads/main/.github/assets/output/borda.png" />
 
-  _Desenvolvido com ❤️ para engenheiros em busca de excelência técnica._
+_Desenvolvido com ❤️ para engenheiros em busca de excelência técnica._
+
 </div>
-
-
